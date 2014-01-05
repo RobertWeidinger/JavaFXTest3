@@ -45,17 +45,6 @@ public class JavaFXTest3Controller {
 	
     @FXML // This method is called by the FXMLLoader when initialization is complete
     void initialize() {
-//    	FXIDCB1.getSelectionModel().select("LEER_UND_NICHT_BESETZBAR");
-//    	FXIDCB2.getSelectionModel().select("LEER_UND_NICHT_BESETZBAR");
     }
 
-
-//	@FXML protected void setzeZustandModellLeerUndBesetzbar1(ActionEvent event) {
-//        JavaFXTest3Main.getInstance().getModel().setFeldZustand(0,0, // Zeile & Spalte werden ignoriert 
-//        														SpielfeldFeldZustand.LEER_UND_BESETZBAR1);
-//    }
-//	@FXML protected void setzeZustandModellLeerUndBesetzbar2(ActionEvent event) {
-//        JavaFXTest3Main.getInstance().getModel().setFeldZustand(0,0, // Zeile & Spalte werden ignoriert 
-//        														SpielfeldFeldZustand.LEER_UND_BESETZBAR2);
-//     }
 }
